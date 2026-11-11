@@ -1,0 +1,1 @@
+This project is an implementation of a linked list developed as part of The Odin Project.
